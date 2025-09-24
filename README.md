@@ -1,7 +1,7 @@
 # KDR — Data Project Portfolio
 
 **Focus:** Python • SQL • Power BI • Tableau • Data Engineering (ETL/ELT, reproducibility)  
-**Status:** Building in public — adding projects regularly.
+**Status:** Adding projects regularly.
 
 ## Table of Contents
 - [Dashboards (Power BI & Tableau)](#dashboards-power-bi--tableau)
