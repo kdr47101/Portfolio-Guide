@@ -1,41 +1,18 @@
-# KDR — Data Project Portfolio
+# 📑 Table of Contents
 
-**Focus:** Python • SQL • Power BI • Tableau • Data Engineering (ETL/ELT, reproducibility)  
-**Status:** Adding projects regularly.
-
-## Table of Contents
-- [Dashboards (Power BI & Tableau)](#dashboards-power-bi--tableau)
-- [SQL](#sql)
-- [Python — Data Analysis & ML](#python--data-analysis--ml)
 - [Data Engineering](#data-engineering)
-- [About & Contact](#about--contact)
+- [SQL](#sql)
+- [Python](#python)
+- [Tableau](#tableau)
+- [Katie’s Guides](#katies-guides)
 
-## Dashboards (Power BI & Tableau)
-**Project A — Business KPI Dashboard**  
-*Tools:* Power BI / DAX  
-*What it shows:* 1–2 lines on the decisions this enabled (stakeholders, KPIs).  
-**Links:** [Screenshots or PDF] · [Code/notes]
+---
 
-**Project B — Tableau Visualization**  
-*Tools:* Tableau  
-*What it shows:* brief impact line.  
-**Links:** [Public link] · [Repo/notes]
+# Data Engineering
 
-## SQL
-**Case Study — Analytics Queries & Data Quality**  
-*Highlights:* CTEs, window functions, joins, validation checks.  
-**Links:** [/sql/…] · [Notebook]
+| Project Link | Completion Date | Tools | Project Description |
+|--------------|-----------------|-------|----------------------|
+| 🚕 [Uber Taxi](#) | May 2023 | Python, GCP (Storage, Compute Engine, BigQuery), Mage, Looker Studio | Developed and implemented an end-to-end ETL pipeline for processing NYC Trip Record data. The pipeline encompassed extracting raw data, performing data transformation using Python, applying fact and dimensional data modelling techniques, orchestrating the pipeline on Mage, and ultimately creating a dashboard using Looker Studio. |
+| 🐶 [Dog Adoption](#) | Mar 2023 | Python, PostgreSQL, Jupyter Notebook | Designed, created, and deployed a custom data model for a dog adoption data set using Python and PostgreSQL on Jupyter Notebook. |
 
-## Python — Data Analysis & ML
-**Project — Exploratory Analysis & Modeling**  
-*Tools:* Python (pandas, scikit-learn)  
-*Results:* Summarize the insight or metric that mattered.  
-**Links:** [/python-ml/…] · [Notebook]
-
-## Data Engineering
-**Mini ETL & Reproducible Workflow**  
-*Tools:* Python, SQL, (Docker if used)  
-*Notes:* Brief diagram or bullets on extraction, validation, load; how to run.
-
-## About & Contact
-Toronto, ON · email@you.com 
+---
