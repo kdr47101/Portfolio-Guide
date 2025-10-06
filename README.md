@@ -31,8 +31,8 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 # Data Engineering & Pipelines
 
-| Project Link | Project Description | Dashboard Link |
-|--------------|---------------------|----------------|
+| Project Link | Tools | Project Description |
+|--------------|-------|----------------|
 | [Uber Taxi](#) | Python, GCP (Storage, Compute Engine, BigQuery), Mage, Looker Studio | Developed and implemented an end-to-end ETL pipeline for processing NYC Trip Record data. The pipeline encompassed extracting raw data, performing data transformation using Python, applying fact and dimensional data modelling techniques, orchestrating the pipeline on Mage, and ultimately creating a dashboard using Looker Studio. |
 
 ---
