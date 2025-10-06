@@ -17,7 +17,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 |--------------|------|-------|---------------------|
 | [Supply Chain Optimization](#) [Dashboard](#) | Data analysis, data cleaning, exploratory data analysis, data visualization, supply chain analytics | Python, Jupyter Notebooks, Tableau | An end-to-end analysis of logistics data to optimize shipment efficiency and improve supply-chain visibility. Work includes cleaning and exploring the dataset, plus a Tableau dashboard highlighting top routes, delay drivers, supplier performance trends, and peak shipment periods |
 | [Supply Chain Optimization](#) [Dashboard](#) | Data analysis, data cleaning, exploratory data analysis, data visualization, supply chain analytics | Python, Jupyter Notebooks, Tableau | An end-to-end analysis of logistics data to optimize shipment efficiency and improve supply-chain visibility. Work includes cleaning and exploring the dataset, plus a Tableau dashboard highlighting top routes, delay drivers, supplier performance trends, and peak shipment periods |
-| [8-Week SQL Challenges](#) | Data analysis, data cleaning, data transformation | SQL | This repo serves as the solution for the 8 case studies from the [8WeekSQLChallenge](https://8weeksqlchallenge.com/). It showcases my ability to tackle various SQL challenges and demonstrates my proficiency in SQL query writing and problem-solving skills. |
+| [8-Week SQL Challenges](https://github.com/kdr47101/8-Week-SQL-Challenge) | Data analysis, data cleaning, data transformation | SQL | This repo serves as the solution for the 8 case studies from the [8WeekSQLChallenge](https://8weeksqlchallenge.com/). It showcases my ability to tackle various SQL challenges and demonstrates my proficiency in SQL query writing and problem-solving skills. |
 
 ---
 
@@ -33,8 +33,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Project Description | Dashboard Link |
 |--------------|---------------------|----------------|
-| 🚕 [Uber Taxi](#) | Python, GCP (Storage, Compute Engine, BigQuery), Mage, Looker Studio | Developed and implemented an end-to-end ETL pipeline for processing NYC Trip Record data. The pipeline encompassed extracting raw data, performing data transformation using Python, applying fact and dimensional data modelling techniques, orchestrating the pipeline on Mage, and ultimately creating a dashboard using Looker Studio. |
-| 🐶 [Dog Adoption](#) | Python, PostgreSQL, Jupyter Notebook | Designed, created, and deployed a custom data model for a dog adoption data set using Python and PostgreSQL on Jupyter Notebook. |
+| [Uber Taxi](#) | Python, GCP (Storage, Compute Engine, BigQuery), Mage, Looker Studio | Developed and implemented an end-to-end ETL pipeline for processing NYC Trip Record data. The pipeline encompassed extracting raw data, performing data transformation using Python, applying fact and dimensional data modelling techniques, orchestrating the pipeline on Mage, and ultimately creating a dashboard using Looker Studio. |
 
 ---
 
