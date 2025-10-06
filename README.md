@@ -15,7 +15,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Area | Tools | Project Description |
 |--------------|------|-------|---------------------|
-| [Supply Chain Optimization](https://github.com/kdr47101/Supply-Chain-Optimization) | Data analysis, data cleaning, exploratory data analysis, data visualization, supply chain analytics | Python, Jupyter Notebooks, Tableau | An end-to-end analysis of logistics data to optimize shipment efficiency and improve supply-chain visibility. Work includes cleaning and exploring the dataset, plus a Tableau dashboard highlighting top routes, delay drivers, supplier performance trends, and peak shipment periods |
+| [Supply Chain Optimization](https://github.com/kdr47101/Supply-Chain-Optimization) | Data analysis, data cleaning, exploratory data analysis, data visualization, supply chain analytics | Python, Jupyter Notebooks, Power BI | An end-to-end analysis of logistics data to optimize shipment efficiency and improve supply-chain visibility. Work includes cleaning and exploring the dataset, plus a Tableau dashboard highlighting top routes, delay drivers, supplier performance trends, and peak shipment periods |
 | [8-Week SQL Challenges](https://github.com/kdr47101/8-Week-SQL-Challenge) | Data analysis, data cleaning, data transformation | SQL | This repo serves as the solution for the 8 case studies from the [8WeekSQLChallenge](https://8weeksqlchallenge.com/). It showcases my ability to tackle various SQL challenges and demonstrates my proficiency in SQL query writing and problem-solving skills. |
 
 ---
