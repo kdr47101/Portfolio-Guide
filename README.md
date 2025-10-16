@@ -1,7 +1,6 @@
 # KDR - Data Project Portfolio
 
-Welcome to my data portfolio! Here, I document a summary of my projects in the data field.
-
+Welcome to my data portfolio! Here we have a catalogue of my more notable projects.
 # 📑 Table of Contents
 
 - [Data Analytics & SQL](#data-analytics-&-sql)
