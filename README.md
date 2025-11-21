@@ -27,7 +27,7 @@ Welcome to my data portfolio! Here we have a catalogue of my more notable projec
 | Project Link | Tools | Project Description |
 |--------------|------------------|----------------------|
 | [AML ML Competition Submission](https://github.com/kdr47101/IMI-Big-Data-and-AI-comp-submission) | Python (pandas, scikit-learn, logging), Jupyter Notebooks, Docker, Bash | End-to-end AML transaction analytics pipeline: cleans multi-source bank data, runs IsolationForest anomaly detection, logs results, and exports per-channel anomalies and visualizations for downstream review. |
-| [Loan Payback Prediction Competition Submission (results pending)](https://github.com/kdr47101/Kaggle-Competition-Predicting-Loan-Payback) | Python (pandas, numpy, scikit-learn, XGBoost, LightGBM, Optuna), Jupyter Notebooks | Kaggle competition predicting loan repayment probability using LightGBM. Applied target encoding with smoothing for high-cardinality categoricals and label encoding for remaining features. Optimized hyperparameters using Optuna across 200 trials with 10-fold stratified cross-validation to prevent data leakage and maximize AUC performance. |
+| [Loan Payback Prediction Competition Submission](https://github.com/kdr47101/Kaggle-Competition-Predicting-Loan-Payback) | Python (pandas, numpy, scikit-learn, XGBoost, LightGBM, Optuna), Jupyter Notebooks | Kaggle competition predicting loan repayment probability using LightGBM. Applied target encoding with smoothing for high-cardinality categoricals and label encoding for remaining features. Optimized hyperparameters using Optuna across 200 trials with 10-fold stratified cross-validation to prevent data leakage and maximize AUC performance. The competition is still active, so the results are pending. |
 
 ---
 
