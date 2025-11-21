@@ -41,8 +41,8 @@ Welcome to my data portfolio! Here we have a catalogue of my more notable projec
 
 # Learning Notes & Other
 
-| Project Link | Tools | Project Description |
-|--------------|-------|---------------------|
+| Project Link | Area | Tools | Project Description |
+|--------------|------|-------|---------------------|
 | [ISLP - Personal Solutions](https://github.com/kdr47101/ISLP-Personal-Solutions) | Data analysis, regression, classification, resampling, regularization, non-linear models, tree-based methods, SVM, unsupervised learning | Python (NumPy, pandas, scikit-learn, statsmodels, matplotlib), Jupyter Notebooks |  Personal, reproducible solutions to ISLP labs/exercises with EDA, modeling, and evaluation notebooks. |
 
 ---
